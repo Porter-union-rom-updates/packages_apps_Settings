@@ -30,8 +30,7 @@
         settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
 
-<<<<<<< HEAD
-=======
+
     <!-- Lineage version -->
     <Preference
         android:key="lineage_version"
@@ -47,7 +46,6 @@
         android:summary="@string/maintainernamelol"
         settings:enableCopying="true"/>
 
->>>>>>> 9e295d2667c (Update firmware_version.xml)
     <!-- Security patch -->
     <Preference
         android:key="security_key"
